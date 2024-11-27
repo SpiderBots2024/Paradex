@@ -1,1 +1,1 @@
-# Parad-x
+# Paradex
