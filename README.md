@@ -1,2 +1,2 @@
-## Paradex
-#### Descrição do Projeto
+# Paradex
+### Descrição do Projeto
