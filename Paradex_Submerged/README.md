@@ -1,2 +1,2 @@
-## Submerged
-#### Descrição do site com imagens
+# Projeto Submerged
+### Descrição do site (imagens)
