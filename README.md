@@ -1,7 +1,7 @@
 <h1 align="center"> PARADEX: A POKEDEX PARAENSE </h1>
 
   <div align="center">
-  <img src="https://i.pinimg.com/736x/47/52/96/4752966053609648fd8c3e298cba8ab2.jpg" width="60" />
+  <img src="https://i.pinimg.com/736x/47/52/96/4752966053609648fd8c3e298cba8ab2.jpg" width="80" />
   </div>
 
 <h2 align="justify">  Resumo </h2>
