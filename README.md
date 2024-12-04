@@ -34,3 +34,17 @@ Foram usados HTML, CSS e JavaScript para criar uma plataforma dinâmica e intuit
 Especialistas sugeriram melhorias, como incluir dados morfométricos e funcionalidades offline. Essas sugestões foram implementadas, aprimorando o projetoImpacto
 O Paradex promove a conservação e a educação ambiental, conectando tecnologia e biologia para preencher uma lacuna crucial. Frase de impacto: "A inovação começa pela informação."
 </h4>
+
+---
+
+<h3 style="font-family: 'Georgia', serif; font-size: 24px; color: #2c3e50; text-align: justify; line-height: 1.6;">
+  🌊 Ficou curioso(a) e quer saber mais detalhes sobre o Projeto Paradéx? Clique no link abaixo para mais informações :) 
+</h3>
+
+<p style="font-family: 'Arial', sans-serif; font-size: 18px; color: #34495e;">
+ ➡️ <a href="https://github.com/SpiderBots2024/Paradex/tree/main/Paradex_Submerged" 
+     style="color: #2980b9; text-decoration: none; font-weight: bold;">
+     Paradex_Submerged
+  </a>
+</p>
+
