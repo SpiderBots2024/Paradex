@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=14356f&height=120&section=header"/>
+<img width="200%" src="https://capsule-render.vercel.app/api?type=waving&color=14356f&height=120&section=header"/>
 
-<h2 align="center"> 📊 Banco de dados produzido pelos alunos </h2>
+<h1 align="center"> 📊 Banco de dados produzido pelos alunos </h1>
 
 ![Evidencia-Site Paradéx](Evidencias_site/evidencia_site_paradex.png) 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=14356f&height=120&section=footer"/>
+<img width="200%" src="https://capsule-render.vercel.app/api?type=waving&color=14356f&height=120&section=footer"/>
