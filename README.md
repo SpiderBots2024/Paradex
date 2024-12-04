@@ -1,6 +1,10 @@
-# PARADEX: A POKEDEX PARAENSE
+<h1 align="justify"> PARADEX: A POKEDEX PARAENSE </h1>
 
-## Resumo
+  <div align="center">
+  <img src="https://i.pinimg.com/736x/47/52/96/4752966053609648fd8c3e298cba8ab2.jpg" width="60" />
+  </div>
+
+<h2 align="justify">  Resumo </h2>
 
 <h4 align="justify"> O Paradex é um projeto inovador criado para suprir a falta de dados organizados sobre a biodiversidade marinha amazônica, inspirado na Pokédex e projetado como um banco de dados interativo e treinável. Identificando problemas como a baixa organização de informações e dificuldades enfrentadas por biólogos, a equipe realizou pesquisas abrangentes, incluindo a análise de 30 artigos científicos, entrevistas com biólogos, cientistas de dados, geógrafos e programadores, além de parcerias com instituições como o NPCA (UFRA), Instituto Bioma e Amazon Web Services. Reuniões estratégicas com especialistas como Lucas Cassiano (NPCA), que sugeriu treinar a IA com pelo menos 100 imagens por espécie, e Thamara (Instituto Bioma), que destacou a importância de dados morfométricos e funcionalidades offline, foram essenciais para direcionar o desenvolvimento do projeto. Com um planejamento detalhado, tarefas foram divididas entre programação, pesquisa, design e comunicação, utilizando tecnologias como HTML, CSS e JavaScript para criar uma plataforma dinâmica e acessível, com funcionalidades como upload de imagens, treinamento de IA e operação offline, ideal para regiões remotas. O Paradex também incorporou dados detalhados, contribuições públicas e boas práticas de programação, consolidando-se como uma ferramenta que promove educação, conservação e acessibilidade científica. A frase de impacto, "A inovação começa pela informação", reflete o objetivo de conectar tecnologia e biologia em prol do meio ambiente, ajudando tanto especialistas quanto o público a compreender e proteger a biodiversidade. </h4>
 
@@ -25,7 +29,7 @@ O Paradex combina inteligência artificial e funcionalidades offline, permitindo
 Foram usados HTML, CSS e JavaScript para criar uma plataforma dinâmica e intuitiva, com funcionalidades como upload de imagens e treinamento da IA com TensorFlow.
 </h4>
 
-<h2 align="justify">💡 Feedback e Interações </h3>
+<h2 align="justify">💡 Feedback e Interações </2>
 <h4 align="justify">
 Especialistas sugeriram melhorias, como incluir dados morfométricos e funcionalidades offline. Essas sugestões foram implementadas, aprimorando o projetoImpacto
 O Paradex promove a conservação e a educação ambiental, conectando tecnologia e biologia para preencher uma lacuna crucial. Frase de impacto: "A inovação começa pela informação."
